@@ -24,8 +24,17 @@ I’m comfortable working across both programming and data-focused tasks. I enjo
 
 ## D. Projects & Competitions
 
-**Enhanced environmental sensing and awareness for the Visually Impaired Helper device** — *Honours Project (2026, in progress)*  
-This year I’m working on my Honours project in **Assistive Technologies**, focused on improving how a Visually Impaired Helper device understands and communicates what’s happening around the user. The goal is to enhance **environmental sensing and awareness** so the device can support safer, more confident navigation and day-to-day independence. I’m approaching the project with a strong focus on practicality, usability, and real-world impact.
+**A Comparative Performance Benchmark of Deep Reinforcement Learning Algorithms for Adaptive Maize Irrigation Scheduling** — *Honours Project (2026, in progress)*
+
+In 2026, I am completing my BSc Honours Computer Science research project focused on benchmarking Deep Reinforcement Learning (DRL) algorithms for **adaptive maize irrigation scheduling**. The central goal is to evaluate how different DRL approaches perform when making irrigation decisions that balance **crop outcomes** (e.g., yield-related objectives) and **water efficiency** under varying environmental and management conditions.
+
+My work emphasizes **reproducible experimentation**, **fair comparison**, and **practical relevance**. I am building a structured benchmarking pipeline around a crop–water simulation environment, defining consistent state/action/reward setups, and running controlled experiments to compare learning stability, generalization, and robustness across scenarios. The final deliverables include a term-based set of submissions (report, slides, and video updates) and a documented codebase to support repeatable evaluation.
+
+**Key focus areas**
+- Benchmark design: state/action/reward formulation for irrigation control  
+- DRL algorithm comparison: training stability, sample efficiency, and performance trade-offs  
+- Evaluation metrics: water-use efficiency, productivity proxies, robustness, and consistency  
+- Reproducibility: clear experiment configs, logging, and results reporting across terms  .
 
 **QuantifyYourFuture Virtual Internship (Team Data Challenges)** — *Jan–Feb 2024 (Remote)*  
 I participated in a team-based virtual internship where we worked on real business and data challenges using **Python** and **Excel**. I contributed to exploring and interpreting datasets, creating clear visuals, and helping the team communicate insights in a structured, easy-to-follow way.
